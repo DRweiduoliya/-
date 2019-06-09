@@ -18,7 +18,7 @@ public class Hlw111 {
 		times[0] = 13;
 		addresses[0] = "航天桥";
 		states[0] = 0;
-		sumPrices[0] = 24.0;
+		sumPrices[0] =56.0;
 
 		names[1] = "绝尘";
 		dishMegs[1] = "披萨 2份";
